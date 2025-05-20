@@ -1,11 +1,7 @@
 ---
 layout: page
-title: Contact
-subtitle: Contact page
+title: Contact Us
+share-title: AttaliTech | Contact Us
 ---
 
-Some details
-
-### The story
-
-Add text here
+Sort this out.
