@@ -1,7 +1,11 @@
 ---
 layout: page
 title: Contact Us
-share-title: AttaliTech | Contact Us
+share-title: Pravara Partners | Contact Us
 ---
 
-Sort this out.
+Connect with us.
+
+Interested in working with us or just want to connect? We’d love to hear from you.
+
+

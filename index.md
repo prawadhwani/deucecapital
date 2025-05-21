@@ -15,9 +15,7 @@ ext-js:
 
 <div id="header-inner" markdown="1">
 
-### Pravara Partners {#title}
-
-#### Excellence Passed On. Greatness Preserved.
+## Excellence Passed On. Greatness Preserved.
 
 We modernize timeless businesses with technology while preserving the soul that built them.
 
@@ -37,30 +35,27 @@ We modernize timeless businesses with technology while preserving the soul that 
 
 <div id="services-out" class="page-section cut1">
   <div id="services">
-    <div class="section-title">What We Offer</div>
+    <div class="section-title">Ethos</div>
+    <div class="section-subtitle">We invest our own capital alongside that of our investors. Together, as Pravara, we are united by a set of guiding principles:</div>
     <div id="services-list">
       <div class="service">
-        <img class="service-img" alt="Service image" src="/assets/img/scale-flexiple/Complex dashboard.png" />
-        <div class="service-text">Building or improving Shiny apps of any complexity</div>
+        <img class="service-img" alt="Service image" src="/assets/img/scale-flexiple/ethos1.png" />
+        <div class="service-text">We take a long-term view, investing with patience, purpose, and the goal of lasting impact.</div>
       </div>
       <div class="service">
-        <img class="service-img" alt="Service image" src="/assets/img/scale-flexiple/Successful completion of project.png" />
-        <div class="service-text">Group workshops and private tutoring</div>
+        <img class="service-img" alt="Service image" src="/assets/img/scale-flexiple/ethos2.png" />
+        <div class="service-text">Every conversation and transaction is grounded in confidentiality, honesty, and transparency.</div>
       </div>
       <div id="services-break"></div>
       <div class="service">
-        <img class="service-img" alt="Service image" src="/assets/img/scale-flexiple/Bug tracking.png" />
-        <div class="service-text">Code review and optimization of Shiny apps and workflows</div>
-      </div>
-      <div class="service">
-        <img class="service-img" alt="Service image" src="/assets/img/scale-flexiple/Work risk-free.png" />
-        <div class="service-text">Professional quality R packages and custom solutions</div>
+        <img class="service-img" alt="Service image" src="/assets/img/scale-flexiple/ethos3.png" />
+        <div class="service-text">We seek exceptional businesses that align with our focus and help them grow sustainably.</div>
       </div>
     </div>
 
-    <a href="/contact" class="actionbtn">
+    <a href="/values" class="actionbtn">
       <span class="far fa-envelope" aria-hidden="true"></span>
-      Contact Us
+      Our Values
     </a>
   </div>
 </div>
@@ -71,7 +66,7 @@ We modernize timeless businesses with technology while preserving the soul that 
   <div id="aboutus">
     <div class="section-title">About Us</div>
     <div id="aboutus-text">
-      PravaraPartners was launched in 2016 as the world's <b>first</b> Shiny consulting firm. The goal was simple: provide a one-stop shop for any and all of your Shiny needs, while adhering to the <b>highest standards</b>. Today, PravaraPartners is a <b>global leader</b> in providing top quality R/Shiny services and is trusted by over 100 companies worldwide. We take pride in knowing you won't get better quality anywhere else.<br/><br/><b>We're certain of it.</b>
+      At Pravara, we acquire exceptional businesses in traditional industries and help them thrive in a modern world. <br/> <br/> We don't buy companies to break them apart, we build on strong foundations. By combining <b>operational excellence</b> with deep <b>technological expertise</b>, we unlock growth while preserving the legacy that made each business great.<br/><br/>We invest more than capital. We bring a steady set of hands, proven experience, and a human-centered approach rooted in trust and transparency. We take the time to understand each founder’s vision and values, and work together to lead their business into its next chapter.<br/><br/><b>Our goal is simple:</b> to be thoughtful stewards of great companies—and help them grow, evolve, and endure.
     </div>
   </div>
 </div>

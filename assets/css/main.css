@@ -1,7 +1,3 @@
----
-layout: null
----
-
 /* Assume 1rem=16px */
 
 p a {
@@ -149,7 +145,7 @@ footer a {
   vertical-align: middle;
   padding: 0.9375rem 3rem;
   border-radius: 5rem;
-  background: #4fc949;
+  background: #05172d;
   font-size: 1.25rem;
   color: #fff;
   text-decoration: none !important;
@@ -159,7 +155,7 @@ footer a {
 }
 .actionbtn:hover,
 .actionbtn:focus {
-  background: #3fb13a;
+  background: #05172d;
   color: #fff;
 }
 

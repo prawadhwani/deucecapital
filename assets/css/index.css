@@ -195,11 +195,19 @@ footer {
 }
 
 .page-section .section-title {
-  font-size: 5rem;
+  font-size: 4.5rem;
   line-height: 1.3;
   text-align: center;
   font-weight: bold;
   margin-bottom: 4rem;
+}
+
+#services .section-subtitle {
+  font-size: 1.1rem;
+  color: #666;
+  text-align: center;
+  margin-top: -35px;
+  margin-bottom: 30px;
 }
 
 @media only screen and (max-width: 650px) {
@@ -218,26 +226,33 @@ footer {
   text-shadow: 0 1px #fff;
 }
 #services .service {
-  display: inline-block;
-  padding-bottom: 1rem;
-  font-size: 1.8rem;
-  line-height: 1.3;
-  cursor: default;
-  vertical-align: top;
-  width: 27rem;
+  flex: 1;
+  min-width: 250px;
+  max-width: 30%;
+  padding: 1rem;
+  margin: 0;
 }
 #services .service:hover {
   background: #fafafa;
 }
 #services .service-img {
-  padding: 0 1rem;
+  width: 100%;
+  height: auto;
+  max-width: 150px;
+  display: block;
+  margin: 0 auto;
 }
 #services .service-text {
-  margin-top: -1rem;
+  margin-top: 2rem;
+  font-size: 1.0rem;
+  line-height: 1.4;
+  padding: 0 0.5rem;
+
 }
 #services-break {
-  display: none;
+  display: none !important;
 }
+
 @media only screen and (max-width: 1899px) {
   #services-break {
     display: block;
@@ -257,6 +272,14 @@ footer {
     max-width: 100%;
   }
 }
+
+@media only screen and (max-width: 768px) {
+  #services .service {
+    max-width: 100%;
+    margin: 1rem 0;
+  }
+}
+
 @media only screen and (max-width: 650px) {
   #services-break {
     display: none;
@@ -264,7 +287,11 @@ footer {
 }
 
 #services-list {
+  display: flex;
+  justify-content: center;
+  gap: 2rem;
   margin: -1rem 0 4.375rem;
+  flex-wrap: wrap;
 }
 
 #aboutus-out, .aboutus-buffer {
@@ -279,13 +306,17 @@ footer {
 #aboutus-text,
 #values-text {
   max-width: 1200px; 
-  margin: 0 auto; 
-  font-size: 1.5rem
+  margin: 0 auto;
+  font-size: 1.2rem;
+  text-align: left;
+  line-height: 1.6;
+  padding: 0 2rem;
 }
 @media only screen and (max-width: 750px) {
   #aboutus-text,
   #values-text {
-    font-size: 1.25rem;
+    font-size: 1.1rem;
+    padding: 0 1rem;
   }
 }
 
