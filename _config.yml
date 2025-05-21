@@ -2,8 +2,7 @@ remote_theme: daattali/beautiful-jekyll
 
 
 title: Pravara Partners
-
-author: Pravara Partners
+email: info@pravarapartners.com
 
 navbar-links:
   About: "/#aboutus"
@@ -24,7 +23,7 @@ navbar-border-col: "#05172d"
 social-network-links:
   email: "info@pravarapartners.com"
 
-url-pretty: "pravarapartners.com"
+url-pretty: "https://pravarapartners.com"
 
 footer-img: "/assets/img/footer-bg.png"
 

@@ -64,7 +64,7 @@ We modernize timeless businesses with technology while preserving the soul that 
 
 <div id="aboutus-out" class="page-section grey-section cut2">
   <div id="aboutus">
-    <div class="section-title">About Us</div>
+    <div class="section-title">What We Do</div>
     <div id="aboutus-text">
       At Pravara, we acquire exceptional businesses in traditional industries and help them thrive in a modern world. <br/> <br/> We don't buy companies to break them apart, we build on strong foundations. By combining <b>operational excellence</b> with deep <b>technological expertise</b>, we unlock growth while preserving the legacy that made each business great.<br/><br/>We invest more than capital. We bring a steady set of hands, proven experience, and a human-centered approach rooted in trust and transparency. We take the time to understand each founder’s vision and values, and work together to lead their business into its next chapter.<br/><br/><b>Our goal is simple:</b> to be thoughtful stewards of great companies—and help them grow, evolve, and endure.
     </div>
@@ -90,7 +90,7 @@ We modernize timeless businesses with technology while preserving the soul that 
 
 <div id="aboutme-section-out" class="page-section grey-section cut2">
   <div id="aboutme-section">
-    <div class="section-title">About the Founder</div>
+    <div class="section-title">Our Partners</div>
 	<div id="aboutme-list" markdown="1">
 {% for info in site.data.main_info %}
 {% if info.icon %}<span class="about-icon fa-fw {{ info.icon }}" aria-hidden="true"></span>{% endif info.icon %}
