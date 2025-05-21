@@ -188,4 +188,7 @@ footer a {
   transform: scale(1.05);
   animation: none;
 }
+.white-buffer {
+  background: #fff;
+}
 

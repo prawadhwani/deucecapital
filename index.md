@@ -142,7 +142,7 @@ ext-js:
   </div>
 </div>
 
-<div class="cut-buffer portfolio-buffer"></div>
+<div class="cut-buffer white-buffer"></div>
 
 </div>
 
