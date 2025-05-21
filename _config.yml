@@ -27,7 +27,7 @@ url-pretty: "https://pravarapartners.com"
 
 footer-img: "/assets/img/footer-bg.png"
 
-gtag: ""
+gtag: "G-LXPMHJGXQF"
 
 timezone: "America/Toronto"
 markdown: kramdown
